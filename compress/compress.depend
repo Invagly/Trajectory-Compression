@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1450620123 source:f:\project\compress\main.cpp
+	<iostream>
+	<fstream>
+	<limits.h>
+	<vector>
+	<stack>
+	<list>
+	<math.h>
+	<stdlib.h>
+	<iomanip>
+
